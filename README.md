@@ -5,9 +5,10 @@
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=%2B5592982933346&text&type=phone_number&app_absent=0)
 
 ##
+
 <div>
-  <img height="172em" src="https://github-readme-stats.vercel.app/api?username=JefsonOliveira&show_icons=true&theme=dracula"/>
-  <img height="172em" src="https://github-readme-stats.vercel.app/api/top-langs?username=JefsonOliveira&layout=compact&theme=dracula"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=JefsonOliveira&show_icons=true&theme=dracula"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs?username=JefsonOliveira&layout=compact&theme=dracula"/>
 </div> 
 
 ##
@@ -21,6 +22,7 @@
   <img aling="center" alt="html5" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img aling="center" alt="html5" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img aling="center" alt="html5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.im.ge/2023/02/11/aChXK0.picwish.png">
 </div>
 
  ### “Qualquer pessoa pode escrever um código que um computador possa entender. Bons programadores escrevem códigos que humanos possam entender.”
