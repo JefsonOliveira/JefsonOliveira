@@ -24,8 +24,9 @@
 </div>
 
 ##
-
+<div>
 ### “Qualquer pessoa pode escrever um código que um computador possa entender. Bons programadores escrevem códigos que humanos possam entender.”
 Martin Fowler
-
+</div>
+  
 ![snake gif](https://github.com/JefsonOliveira/JefsonOliveira/blob/output/github-contribution-grid-snake.svg)
