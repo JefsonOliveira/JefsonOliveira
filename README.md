@@ -23,5 +23,5 @@
   <img aling="center" alt="html5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
 
- “Qualquer pessoa pode escrever um código que um computador possa entender. Bons programadores escrevem códigos que humanos possam entender.”
+ ### “Qualquer pessoa pode escrever um código que um computador possa entender. Bons programadores escrevem códigos que humanos possam entender.”
 Martin Fowler
