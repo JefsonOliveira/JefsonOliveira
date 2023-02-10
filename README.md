@@ -25,3 +25,9 @@
 
  ### “Qualquer pessoa pode escrever um código que um computador possa entender. Bons programadores escrevem códigos que humanos possam entender.”
  ### Martin Fowler
+
+<div>
+  <img src="[https://github-readme-stats.vercel.app/api?username=JefsonOliveira&show_icons=true&theme=dracula](https://i.im.ge/2023/02/10/aAzAlh.WhatsApp-Image-2023-02-10-at-12-35-19.jpg)"/>
+</div> 
+
+<a href="https://im.ge/i/aAzAlh"><img src="https://i.im.ge/2023/02/10/aAzAlh.WhatsApp-Image-2023-02-10-at-12-35-19.jpg" alt="WhatsApp Image 2023-02-10 at 12.35.19" border="0"></a>
