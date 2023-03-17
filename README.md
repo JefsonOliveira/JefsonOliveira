@@ -32,4 +32,4 @@
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/JefsonOliveira/count.svg" /></p>
 
 
-![snake gif](https://github.com/JefsonOliveira/JefsonOliveira/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/JefsonOliveira/blob/output/github-contribution-grid-snake.svg)
