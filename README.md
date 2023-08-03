@@ -23,7 +23,7 @@
   <img aling="center" alt="html5" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img aling="center" alt="html5" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img aling="center" alt="html5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img align="right" alt="Rafa-pic" height="150" src="https://i.im.ge/2023/02/11/aChXK0.picwish.png" />
+<!--   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50" src="https://i.im.ge/2023/02/11/aChXK0.picwish.png" /> -->
 </div>
 
  ### “Qualquer pessoa pode escrever um código que um computador possa entender. Bons programadores escrevem códigos que humanos possam entender.”
