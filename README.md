@@ -30,3 +30,7 @@
  ### Martin Fowler
 
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/JefsonOliveira/count.svg" /></p>
+
+![Snake animation](https://github.com/JefsonOliveira/JefsonOliveira/blob/output/github-contribution-grid-snake.svg)
+
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=JefsonOliveira&repo=JefsonOliveira&theme=react)](https://github.com/JefsonOliveira/JefsonOliveira)
