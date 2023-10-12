@@ -33,4 +33,4 @@
 
 ![Snake animation](https://github.com/JefsonOliveira/JefsonOliveira/blob/output/github-contribution-grid-snake.svg)
 
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=JefsonOliveira&repo=JefsonOliveira&theme=react)](https://github.com/JefsonOliveira/JefsonOliveira)
+[![readme](https://github-readme-stats.vercel.app/api/pin/?JefsonOliveira=JefsonOliveira&repo=JefsonOliveira&theme=react)](https://github.com/JefsonOliveira/JefsonOliveira)
