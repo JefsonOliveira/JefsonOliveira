@@ -31,5 +31,5 @@
 
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/JefsonOliveira/count.svg" /></p>
 
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/JefsonOliveira/JefsonOliveira/output/github-contribution-grid-snake.svg" />
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/JefsonOliveira/JefsonOliveira/output/github-contribution-grid-snake.svg-dark" />
 
