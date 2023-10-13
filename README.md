@@ -31,5 +31,5 @@
 
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/JefsonOliveira/count.svg" /></p>
 
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/JefsonOliveira/JefsonOliveira/output/github-contribution-grid-snake.svg" />
+![snake gif](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
 
