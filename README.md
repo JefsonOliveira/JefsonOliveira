@@ -1,17 +1,19 @@
 ### Olá! eu sou o Jefson Oliveira ✋
 
-<a href="https://www.linkedin.com/in/jefson-oliveira-a92a62206/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="https://www.instagram.com/jefson_k_oliveira/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-</a>
-<a href="https://api.whatsapp.com/send/?phone=%2B5541996838717&text&type=phone_number&app_absent=0" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-</a>
-<a href="https://www.jefsonoliveira.com.br/" target="_blank">
-  <img src="https://img.shields.io/badge/⚙️%20Portfólio-0077B5?style=for-the-badge&logo=globe&logoColor=white" alt="Portfólio">
-</a>
+<div style="display: inline_block"><br/>
+  <a href="https://www.linkedin.com/in/jefson-oliveira-a92a62206/" target="_blank">
+    <img aling="center" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/jefson_k_oliveira/" target="_blank">
+    <img aling="center" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://api.whatsapp.com/send/?phone=%2B5541996838717&text&type=phone_number&app_absent=0" target="_blank">
+    <img aling="center" alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://www.jefsonoliveira.com.br/" target="_blank">
+    <img aling="center" alt="Portfólio" src="https://img.shields.io/badge/⚙️%20Portfólio-0077B5?style=for-the-badge&logo=globe&logoColor=white" />
+  </a>
+</div>
 
 
 
