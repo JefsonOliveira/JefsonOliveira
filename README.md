@@ -43,10 +43,7 @@
 <!--   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50" src="https://i.im.ge/2023/02/11/aChXK0.picwish.png" /> -->
 </div>
 
- ### “Qualquer pessoa pode escrever um código que um computador possa entender. Bons programadores escrevem códigos que humanos possam entender.”
- ### Martin Fowler
 
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/JefsonOliveira/count.svg" /></p>
 
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/JefsonOliveira/JefsonOliveira/output/github-contribution-grid-snake.svg" />
 
