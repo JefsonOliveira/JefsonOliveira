@@ -10,7 +10,7 @@
   <a href="https://api.whatsapp.com/send/?phone=%2B5541996838717&text&type=phone_number&app_absent=0" target="_blank">
     <img aling="center" alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-  <a href="https://www.jefsonoliveira.com.br/" target="_blank">
+  <a href="https://jefsonoliveira.github.io/my-portfolio/" target="_blank">
     <img aling="center" alt="Portfólio" src="https://img.shields.io/badge/⚙️%20Portfólio-0077B5?style=for-the-badge&logo=globe&logoColor=white" />
   </a>
 </div>
