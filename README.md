@@ -1,33 +1,33 @@
-### Olá! eu sou o Jefson Oliveira ✋
+### Olá! Eu sou o Jefson Oliveira ✋
 
 <div style="display: inline_block"><br/>
   <a href="https://www.linkedin.com/in/jefson-oliveira-a92a62206/" target="_blank">
-    <img aling="center" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img align="center" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/jefson_k_oliveira/" target="_blank">
-    <img aling="center" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img align="center" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://api.whatsapp.com/send/?phone=%2B5541996838717&text&type=phone_number&app_absent=0" target="_blank">
-    <img aling="center" alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img align="center" alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   <a href="https://jefsonoliveira.github.io/my-portfolio/" target="_blank">
-    <img aling="center" alt="Portfólio" src="https://img.shields.io/badge/⚙️%20Portfólio-0077B5?style=for-the-badge&logo=globe&logoColor=white" />
+    <img align="center" alt="Portfólio" src="https://img.shields.io/badge/⚙️%20Portfólio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </div>
 
+---
 
-
-
-
-
+Sou um desenvolvedor web em transição de carreira, focado em **JavaScript, TypeScript, React e NestJS**, construindo aplicações full stack com boas práticas, organização e foco em aprendizado contínuo.  
+Gosto de criar projetos que resolvem problemas reais, como controle de despesas, organização de treinos e aplicações voltadas ao dia a dia.
 
 ##
 
 <div>
- <a href="https://github.com/JefsonOliveira">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=JefsonOliveira&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JefsonOliveira&layout=compact&langs_count=7&theme=transparent"/>
-</div> 
+  <a href="https://github.com/JefsonOliveira">
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=JefsonOliveira&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  </a>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JefsonOliveira&layout=compact&langs_count=7&theme=transparent"/>
+</div>
 
 ##
 
@@ -60,8 +60,6 @@
   <img align="center" alt="github" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
 </div>
 
-
-
+##
 
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/JefsonOliveira/JefsonOliveira/output/github-contribution-grid-snake.svg" />
-
