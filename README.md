@@ -18,7 +18,7 @@
 ---
 
 Sou um desenvolvedor web em transição de carreira, focado em **JavaScript, TypeScript, React e NestJS**, construindo aplicações full stack com boas práticas, organização e foco em aprendizado contínuo.  
-Gosto de criar projetos que resolvem problemas reais, como controle de despesas, organização de treinos e aplicações voltadas ao dia a dia.
+Gosto de criar projetos que resolvem problemas reais, que realmente façam diferença no dia a dia das pessoas.
 
 ##
 
